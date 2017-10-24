@@ -14,6 +14,6 @@ background-color:#d4ff7c;
 }
 
 @keyframes flash {
-    from {color: red;}
+    from {color: white;}
     to {color: black;}
 }
